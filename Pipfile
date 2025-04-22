@@ -4,7 +4,7 @@ verify_ssl = true
 name = "private-pypi"
 
 [packages]
-structlog = "==25.1.0"
+structlog = "==24.1.0"
 
 [requires]
 python_version = "3.12"
