@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "27870e7a5bf537442e597f662438c931d8acd2572e52bc80c3e4061d00099bd7"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.12"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://thavaahariharangit@github.com:${secrets.JFROG_ARTIFACTORY_TOKEN}@jfrogghdemo.jfrog.io/artifactory/dependabot-pip",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "structlog": {
+            "hashes": [
+                "sha256:3f6efe7d25fab6e86f277713c218044669906537bb717c1807a09d46bca0714d"
+            ],
+            "index": "pypi",
+            "version": "==24.1.0"
+        }
+    },
+    "develop": {}
+}
