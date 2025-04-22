@@ -1,12 +1,10 @@
 [[source]]
-url = "https://pypi.org/simple"
+url = "https://jfrogghdemo.jfrog.io/artifactory/dependabot-pip/"
 verify_ssl = true
-name = "pypi"
+name = "private-pypi"
 
 [packages]
-structlog = "==25.1.0"
-
-[dev-packages]
+structlog = "==24.1.0"
 
 [requires]
 python_version = "3.12"
