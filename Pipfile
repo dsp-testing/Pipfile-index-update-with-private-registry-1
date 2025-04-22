@@ -1,7 +1,7 @@
 [[source]]
 url = "https://jfrogghdemo.jfrog.io/artifactory/dependabot-pip"
 verify_ssl = true
-name = "private-pypi"
+name = "pypi"
 
 [packages]
 structlog = "==24.1.0"
