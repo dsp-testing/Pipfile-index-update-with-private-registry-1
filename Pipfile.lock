@@ -10,7 +10,7 @@
         "sources": [
             {
                 "name": "pypi",
-                "url": "https://jfrogghdemo.jfrog.io/artifactory/dependabot-pip",
+                "url": "https://thavaahariharangit@github.com:${secrets.JFROG_ARTIFACTORY_TOKEN}@jfrogghdemo.jfrog.io/artifactory/dependabot-pip",
                 "verify_ssl": true
             }
         ]
